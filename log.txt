@@ -1,0 +1,79 @@
+
+test
+hey
+ARTIST NAME: Backstreet Boys
+SONG NAME: I Want It That Way
+PREVIEW LINK: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7dd296b4039341a5b233941e13799653
+ALBUM NAME: The Hits--Chapter One
+ARTIST NAME: Backstreet Boys
+SONG NAME: I Want It That Way
+PREVIEW LINK: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7dd296b4039341a5b233941e13799653
+ALBUM NAME: The Hits--Chapter One
+ARTIST NAME: Backstreet Boys
+SONG NAME: I Want It That Way
+PREVIEW LINK: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7dd296b4039341a5b233941e13799653
+ALBUM NAME: The Hits--Chapter One
+MOVIE TITLE: Star Wars: Episode IV - A New Hope
+YEAR OF RELEASE: 1977
+IMDB RATING: 8.6/10
+ROTTEN TOMATOES RATING: 93%
+MOVIE LANGUAGE: English
+MOVIE PLOT: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station while also attempting to rescue Princess Leia from the evil Darth Vader.
+ACTORS: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+MOVIE TITLE: Mr. Nobody
+YEAR OF RELEASE: 2009
+IMDB RATING: 7.9/10
+ROTTEN TOMATOES RATING: 66%
+MOVIE LANGUAGE: English, Mohawk
+MOVIE PLOT: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ACTORS: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ARTIST NAME: Ace of Base
+SONG NAME: The Sign
+PREVIEW LINK: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=7dd296b4039341a5b233941e13799653
+ALBUM NAME: The Sign (US Album) [Remastered]
+ARTIST NAME: Backstreet Boys
+SONG NAME: I Want It That Way
+PREVIEW LINK: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7dd296b4039341a5b233941e13799653
+ALBUM NAME: The Hits--Chapter One
+What's the difference between a dentist and a web page?
+The doctype.
+In what unit do you measure a function's length?
+In para-meters.
+Why did the function break up with the programmer?
+She stopped calling it.
+How do you comfort a JavaScript bug?
+You console it.
+Why is C more popular with the ladies than Java?
+Because C doesn't treat them like objects.
+Why do Java programmers have to wear glasses?
+Because they don't C#.
+Where do programmers like to hang out?
+Foo Bar.
+What's the object-oriented way to become wealthy?
+Inheritance.
+Why did the programmer quit his job?
+He didn't get arrays.
+Did you hear that Bash got cancer?
+It's terminal.
+What's the difference between a dentist and a web page?
+The doctype.
+In what unit do you measure a function's length?
+In para-meters.
+Why did the function break up with the programmer?
+She stopped calling it.
+How do you comfort a JavaScript bug?
+You console it.
+Why is C more popular with the ladies than Java?
+Because C doesn't treat them like objects.
+Why do Java programmers have to wear glasses?
+Because they don't C#.
+Where do programmers like to hang out?
+Foo Bar.
+What's the object-oriented way to become wealthy?
+Inheritance.
+Why did the programmer quit his job?
+He didn't get arrays.
+Did you hear that Bash got cancer?
+It's terminal.
+What's the difference between a dentist and a web page?
+The doctype.
